@@ -1,0 +1,5 @@
+Bill of customer:Rishesh	2019-04-27
+S.No.	 Name	 Author	 Amount
+1.	Harry Potter	JK Rowling	2.5	
+2.	Two States	Chetan Bhagat	2	
+

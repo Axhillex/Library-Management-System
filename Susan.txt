@@ -1,0 +1,6 @@
+Bill of customer:Susan	2019-01-14
+S.No.	 Name	 Author	Amount
+1.	Harry Potter	JK Rowling	2.5	
+3.	The Alchemist	Paul Cohelo	2.3	
+5.	Programming With Python	John Smith	1.8	
+       

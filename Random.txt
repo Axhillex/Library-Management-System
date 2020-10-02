@@ -1,0 +1,4 @@
+Bill of customer:Random	2019-01-18
+S.No.	 Name	 Author	 Amount
+1.	Harry Potter	JK Rowling	2.5	
+

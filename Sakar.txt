@@ -1,0 +1,6 @@
+Bill of customer:Sakar	2019-01-14
+S.No.	 Name	 Author	Amount
+11.	A Tree Grows in Brooklyn	Betty Smith	1.7	
+9.	The Lovely Bones	Alice Sebold	2.2	
+5.	Programming With Python	John Smith	1.8	
+ 

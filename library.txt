@@ -1,0 +1,13 @@
+S.No.,Name,Author,Quantity,Price(in dollars)
+1.,Harry Potter,JK Rowling,25,2.5
+2.,Two States,Chetan Bhagat,38,2
+3.,The Alchemist,Paul Cohelo,18,2.3
+4.,Start With Why,Simon Sinek,30,1.5
+5.,Programming With Python,John Smith,28,1.8
+6.,Pride and Prejudice,Jane Austen,35,2.8
+7.,The Call of the Wild,Jack London,40,1.5
+8.,Fahrenheit 451,Ray Bradbury,20,1.6
+9.,The Lovely Bones,Alice Sebold,45,2.2
+10.,The Joy Luck Club,Amy Tan,35,2.1
+11.,A Tree Grows in Brooklyn,Betty Smith,25,1.7
+12.,Siddhartha,Herman Hesse,50,3.0
